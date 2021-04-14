@@ -7,6 +7,8 @@ namespace Train
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+
+            var a = 6;
         }
     }
 }
