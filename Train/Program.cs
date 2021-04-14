@@ -9,7 +9,6 @@ namespace Train
             Console.WriteLine("Hello World!");
 
             var a = 6;
-            var b = 2;
         }
     }
 }
